@@ -38,3 +38,4 @@ end
 
 % Display the zodiac sign
 disp(['Your zodiac sign is: ' zodiac]);
+%%% UPDATED MERGH
